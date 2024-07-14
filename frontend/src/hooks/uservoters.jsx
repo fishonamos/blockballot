@@ -1,1 +1,0 @@
-//voter state manage
